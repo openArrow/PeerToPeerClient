@@ -1,6 +1,6 @@
 This is a Peer to Peer clinet project with a central directory server.
 Both Peer Client and directory Server are implemeted using Qt framework and C++/
-For Further Information please see the reoprt.pdf
+For Further Information please see the ProjectReport.pdf
 
 Both the peer client and peer server are implementedt using Qt framework.
 So to build it following steps need to be followed:
